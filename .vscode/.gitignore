@@ -1,0 +1,9 @@
+# Compiled binaries
+code
+my_app
+*.o
+*.exe
+
+# Mac system files
+.DS_Store
+*.dSYM/
